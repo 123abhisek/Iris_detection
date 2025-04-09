@@ -1,0 +1,13 @@
+Class Name,Varieties,Facts,Uses,Petals,Sepals,Flowers,Leaves,Height,Habitat
+Iris setosa,Bristly Iris,"* The name ""setosa"" comes from the Latin word for ""bristly,"" referring to the appearance of the standards.
+* Iris setosa is a popular choice for gardens due to its showy flowers and easy care.
+* It attracts butterflies, bees, and other pollinators.
+* The flowers are edible and can be used to make tea or jelly.
+* Iris setosa is included in the Iris flower data set, a commonly used dataset in machine learning.",#NAME?,3,3,"Large, showy flowers.","Narrow, sword-like leaves.",2-3 feet tall.,"Iris setosa is tolerant of many kinds of habitats. It can be found in bogs (or swamps), meadows, beside rivers (or streams), on lake shores,[14] (especially rocky shores),[18] beaches, dunes, headlands and light woodland.[19][23][18] It can grow in sand or gravelly soils.[4] Although, normally considered a wetland plant, it does well in dry soil, too.[14] It is normally found at 1,500–2,500 m (4,900–8,200 ft) above sea level.[7][15"
+Iris versicolor,Blue Iris,,#NAME?,3,3,Varies in color from blue to purple.,"Broad, flat leaves.",2-4 feet tall.,"Meadows, swamps, and woodlands."
+Iris virginica,Southern Blue Iris,"* The Virginia blueflag is the state wildflower of Virginia and Tennessee.
+* It was named after the state of Virginia, where it was first discovered.
+* The plant contains a compound called irisin, which is toxic to humans and animals.
+* Despite its toxicity, the Virginia blueflag has been used in traditional medicine for a variety of ailments.
+* It is a popular choice for gardens and landscapes due to its beautiful flowers and ease of care.
+",#NAME?,3,3,Deep blue flowers.,"Wide, flat leaves.",2-4 feet tall.,Moist woods and swamps.
